@@ -1,0 +1,41 @@
+.container {
+    margin: 10%;
+    background: tomato;
+    padding: 100px;
+}
+
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+header {
+    background: red;
+    font-size: 20px;
+    border: 10px solid red;
+    border-radius: 50px;
+    margin-bottom: 53px;
+    color: white;
+
+}
+
+.button {
+    font-size: 37px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Resultado {
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}

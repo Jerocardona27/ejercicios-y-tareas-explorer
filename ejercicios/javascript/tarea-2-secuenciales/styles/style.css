@@ -1,0 +1,42 @@
+.tabla {
+    background: purple;
+    margin: 50px;
+    padding: 100px;
+    padding-top: 30px;
+    border: 10px dashed #900C3F
+}
+
+label {
+    display: block;
+    color: white;
+
+}
+
+input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+header {
+    background: #900C3F;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding-bottom: px;
+    border-radius: 15px;
+}
+
+.abajo {
+    padding-top: 17px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#result {
+    margin-top: 46px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    color: white;
+}
