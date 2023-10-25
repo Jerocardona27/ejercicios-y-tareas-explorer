@@ -11,6 +11,7 @@ const botoncete = document.getElementById("comparison").addEventListener("click"
     const num1 = Number(document.getElementById("num1").value);
     const num2 = Number(document.getElementById('num2').value);
     const num3 = Number(document.getElementById('num3').value);
+    const result = document.getElementById('result');
     let numMayor
     let numMenor
 
@@ -31,7 +32,8 @@ const botoncete = document.getElementById("comparison").addEventListener("click"
 
 
 
-    console.log(num1, num2, num3, numMayor, numMenor)
+    result.innerHTML = `Este es el número mayor ${numMayor} y este es el número menor ${numMenor}`;
+    
 
 })
 

@@ -2,6 +2,12 @@
     margin: 10%;
 }
 
+main {
+    background-color: rgb(236, 157, 216);
+    padding: 10px;
+    border-radius: 25px;
+}
+
 h1 {
     display: block;
     position: relative;
